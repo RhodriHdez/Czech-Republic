@@ -1,0 +1,17 @@
+@charset "utf-8";
+table {
+    width: 1000px;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-align: justify;
+    text-indent: 0px;
+    color: white;
+    background-color: #0003B1;
+    -webkit-box-shadow: 0px 0px #010094;
+    box-shadow: 0px 0px #010094;
+}
+h1,h2{color: white}
+body{background-color: red}
+/* CSS Document */
